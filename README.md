@@ -1,4 +1,4 @@
-# self-organizing-predictions
+# Self Organizing Predictions
 
 ## Prediction Agents
 &nbsp;&nbsp;&nbsp;&nbsp; How can we possibly know anything about the future if it hasn’t happened yet? That’s easy: by looking at the past. When we experience a novel event or feeling, especially those with emotional connotations, we are driven to reproduce it. We ask ourselves, what was the cause? 
